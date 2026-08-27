@@ -943,3 +943,23 @@ p {
     transform: none;
   }
 }
+
+.work__visual--midnight {
+  position: relative;
+  overflow: hidden;
+}
+
+.work-frame__screenshot {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+}
+
+.work-frame--overlay {
+  position: relative;
+  z-index: 2;
+  background: linear-gradient(to top, rgba(0,0,0,0.75), rgba(0,0,0,0) 60%);
+}
