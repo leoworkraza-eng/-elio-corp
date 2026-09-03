@@ -375,3 +375,128 @@ window.translations = {
     "footer.rights": "Todos los derechos reservados."
   }
 };
+
+  ca: {
+    "meta.title": "Elio Corp — Llocs web per a petits negocis",
+    "meta.description": "Ajudo petits negocis a tenir una presència professional en línia: llocs clars, presència a Google, eines senzilles i manteniment mensual. Sense tecnicismes.",
+    "skip": "Anar al contingut",
+
+    "nav.services": "Serveis",
+    "nav.work": "Feina",
+    "nav.process": "Procés",
+    "nav.about": "Sobre mi",
+    "nav.cta": "Parlem-ne",
+
+    "hero.eyebrow": "Elio Corp · llocs web per a negocis reals",
+    "hero.h1a": "El teu negoci ja funciona.",
+    "hero.h1b": "El teu lloc web també hauria de funcionar.",
+    "hero.lede": "Ajudo petits negocis a tenir una molt bona imatge en línia: un lloc clar, una bona presència a Google, i eines senzilles que tenen sentit. Sense tecnicismes, sense propostes de 40 pàgines — només una imatge moderna per a la feina que ja fas bé.",
+    "hero.cta1": "Obtén una revisió gratuïta",
+    "hero.cta2": "Veure feina recent",
+    "hero.trust1": "Llenguatge clar",
+    "hero.trust2": "Preus justos i clars",
+    "hero.trust3": "Tot és teu",
+
+    "mock.badge": "Obert avui · 8h–18h",
+    "mock.title": "Un lloc que mostra que vas seriosament.",
+    "mock.sub": "Reserves, horaris, fotos, i un número a un toc.",
+    "mock.cta": "Trucar",
+    "mock.google.title": "Google",
+    "mock.google.sub": "Mapa, horaris, ressenyes",
+    "mock.whatsapp.title": "WhatsApp",
+    "mock.whatsapp.sub": "Contacte en un toc",
+    "mock.care.title": "Cura",
+    "mock.care.sub": "Actualitzacions, còpies de seguretat",
+    "float.a": "Trobat a Google en 2 clics",
+    "float.b": "«Per fi sembla una empresa de veritat.»",
+
+    "band.text": "Pensat per a propietaris que prefereixen portar el seu negoci abans que aprendre disseny web.",
+    "band.bakeries": "Fleques", "band.trades": "Oficis", "band.clinics": "Clíniques", "band.salons": "Salons",
+    "band.cafes": "Cafès", "band.studios": "Estudis", "band.shops": "Botigues", "band.services": "Serveis",
+
+    "services.eyebrow": "Serveis",
+    "services.h2": "Quatre maneres de fer que et trobin, confiïn i et contactin.",
+    "services.lead": "Tria'n un, o comença amb un lloc web i creix des d'aquí. Tot explicat en llenguatge senzill, i sempre sabràs què estàs pagant.",
+
+    "service1.title": "Llocs web professionals",
+    "service1.text": "Un lloc net i adaptat a mòbils que mostra qui ets, què ofereixes i com contactar-te. Ràpid, fàcil d'actualitzar, i amb bon aspecte — no una plantilla antiga.",
+    "service1.li1": "Inici, serveis, sobre mi, contacte",
+    "service1.li2": "Trucar o escriure per WhatsApp en un toc",
+    "service1.li3": "Fotos que reflecteixen la teva marca",
+
+    "service2.title": "Presència en línia",
+    "service2.text": "Estar en línia és més que un lloc web. Configuro els llocs on els teus clients realment miren: Google Business, mapes, horaris, fotos, i un nom coherent a tot arreu.",
+    "service2.li1": "Perfil de Google Business",
+    "service2.li2": "Marca coherent",
+    "service2.li3": "Horaris, ubicació i ressenyes clares",
+
+    "service3.title": "Eines digitals",
+    "service3.text": "Petites millores que estalvien temps: reserves en línia, formularis senzills, un botó de WhatsApp, una llista de preus, o una pàgina per pagar o demanar pressupost — sense deu trucades.",
+    "service3.li1": "Formularis de reserva i pressupost",
+    "service3.li2": "Menús, catàlegs, PDF",
+    "service3.li3": "Automatitzacions senzilles",
+
+    "service4.title": "Manteniment mensual",
+    "service4.text": "Un lloc web mai està realment «acabat». El mantinc ràpid, segur i actualitzat — fotos noves, horaris de temporada, petits canvis de text — perquè no t'hagis de preocupar.",
+    "service4.li1": "Actualitzacions i còpies de seguretat",
+    "service4.li2": "Revisions de seguretat",
+    "service4.li3": "Una persona real a qui escriure",
+
+    "work.eyebrow": "Feina destacada",
+    "work.h2": "Projectes que semblen el negoci que hi ha darrere.",
+    "work.lead": "Primer: una feina real, ja en línia. A sota, exemples del tipus de projectes que sol faig — cadascun va començar igual: un bon negoci local que encara no es veia així en línia.",
+
+    "work.midnight.tag": "Lloc web · Primer projecte per a client",
+    "work.midnight.title": "Una marca de vida nocturna que necessitava sentir-se tan elèctrica en línia com a la porta.",
+    "work.midnight.text": "Vaig construir el lloc de Midnight 261, una marca d'esdeveniments arrelada a la cultura i la vida nocturna de Madagascar — visuals forts, informació clara dels esdeveniments, i un lloc ràpid pensat per a qui decideix on sortir aquesta nit.",
+    "work.midnight.link": "Visitar el lloc en directe →",
+
+    "work.bakery.tag": "Lloc web · Presència en línia",
+    "work.bakery.title": "Una fleca de barri que per fi es veu tan bé com els seus croissants.",
+    "work.bakery.text": "Vaig substituir una pàgina només de Facebook per un lloc senzill: el menú del dia, fotos, un mapa de Google, i un botó de comandes per WhatsApp. Els clients van deixar de preguntar «esteu oberts?» per missatge.",
+
+    "work.trade.tag": "Lloc web · Eines digitals",
+    "work.trade.title": "Un negoci d'oficis que la gent podia trobar a les 11 de la nit — i realment trucar.",
+    "work.trade.text": "Un lloc per a mòbils amb botons de trucada grans, zones de servei, i un formulari breu de pressupost. També vaig netejar el seu perfil de Google perquè apareguin quan algú busca «lampista a prop meu».",
+
+    "work.studio.tag": "Lloc web · Manteniment mensual",
+    "work.studio.title": "Un estudi de ioga amb un horari que s'actualitza sense complicacions.",
+    "work.studio.text": "Un lloc tranquil i senzill amb horaris de classes, ofertes, i un enllaç de reserva. El manteniment mensual manté l'horari i les fotos al dia, perquè la propietària segueixi a la seva estora, no atrapada al lloc web.",
+
+    "process.eyebrow": "Com funciona",
+    "process.h2": "Quatre passos. Res complicat. Sense reunions interminables.",
+    "step1.title": "Parlem",
+    "step1.text": "Una trucada breu o un xat de WhatsApp. M'expliques què fa el teu negoci, qui són els teus clients, i què et frustra ara mateix de la teva presència en línia.",
+    "step2.title": "Faig un pla",
+    "step2.text": "Reps un pla clar: què construiré, quant costa, i quan estarà llest. Sense sorpreses, sense «paquets» vagues.",
+    "step3.title": "Ho construeixo",
+    "step3.text": "Dissenyo i publico el lloc mentre tu segueixes portant el teu negoci. Veuràs un esborrany, demanaràs ajustos, i publiquem quan estigui llest.",
+    "step4.title": "Tu creixes",
+    "step4.text": "El manteniment mensual, opcional, ho manté tot al dia. Necessites una pàgina nova o una oferta de temporada? Només escriu-me, jo me n'ocupo.",
+
+    "about.eyebrow": "Sobre mi",
+    "about.h2": "Sóc en Léo. Ajudo negocis pràctics a lluir en línia.",
+    "about.p1": "La majoria de persones amb qui treballo són excel·lents en el que fan — fer pa, lampisteria, perruqueria, fer classes — i estan cansades que els diguin que «han d'estar a les xarxes». No necessites una màquina de contingut. Necessites un lloc senzill i professional que faci sonar el telèfon.",
+    "about.p2": "Sóc un dissenyador i desenvolupador independent jove. Mantinc el procés senzill: una sola persona, respostes honestes, i una feina cuidada. Si pots explicar el teu negoci prenent un cafè, puc posar-lo en línia d'una manera que se senti com tu.",
+    "about.note": "Basat localment. Treballa a distància. Parla clar.",
+
+    "contact.eyebrow": "Contacte",
+    "contact.h2": "Explica'm el teu negoci. Et diré què faria primer.",
+    "contact.lead": "Prefereixes no omplir un formulari? Escriu-me per WhatsApp o correu — responc com una persona real, normalment en un dia.",
+    "contact.whatsapp.label": "WhatsApp",
+    "contact.email.label": "Correu",
+
+    "form.name": "Nom",
+    "form.name.placeholder": "El teu nom",
+    "form.business": "Negoci",
+    "form.business.placeholder": "Cafè, saló, taller…",
+    "form.email": "Correu o telèfon",
+    "form.email.placeholder": "Com et responc?",
+    "form.message": "Què necessites?",
+    "form.message.placeholder": "Lloc web, perfil de Google, reserves, manteniment mensual…",
+    "form.submit": "Enviar missatge",
+    "form.hint": "Això obre la teva aplicació de correu amb les dades ja emplenades. No es guarda res en cap servidor.",
+
+    "footer.tagline": "Llocs web per a petits negocis pràctics.",
+    "footer.rights": "Tots els drets reservats."
+  }
