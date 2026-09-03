@@ -1,7 +1,7 @@
 // js/i18n.js
 (function () {
   var STORAGE_KEY = 'elio-corp-lang';
-  var supported = ['en', 'fr', 'es'];
+  var supported = ['en', 'fr', 'es', 'ca'];
 
   function getInitialLang() {
     var saved = localStorage.getItem(STORAGE_KEY);
