@@ -1,0 +1,24 @@
+.lang-switch {
+  display: flex;
+  gap: 4px;
+  margin-left: 12px;
+  align-items: center;
+}
+.lang-switch button {
+  background: transparent;
+  border: 1px solid currentColor;
+  border-radius: 6px;
+  padding: 3px 8px;
+  font-size: 12px;
+  font-family: inherit;
+  cursor: pointer;
+  opacity: 0.55;
+  transition: opacity 0.2s ease;
+}
+.lang-switch button.is-active {
+  opacity: 1;
+  font-weight: 600;
+}
+.mobile-menu .lang-switch {
+  margin: 16px 0 0;
+}
