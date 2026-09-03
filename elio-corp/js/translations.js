@@ -32,7 +32,7 @@ window.translations = {
     "mock.care.title": "Care",
     "mock.care.sub": "Updates, backups",
     "float.a": "Found on Google in 2 clicks",
-    "float.b": "“Finally looks like a real company.”",
+    "float.b": "\u201cFinally looks like a real company.\u201d",
 
     "band.text": "Made for owners who'd rather run their business than learn web design.",
     "band.bakeries": "Bakeries", "band.trades": "Trades", "band.clinics": "Clinics", "band.salons": "Salons",
@@ -373,8 +373,7 @@ window.translations = {
 
     "footer.tagline": "Sitios web para pequeños negocios prácticos.",
     "footer.rights": "Todos los derechos reservados."
-  }
-};
+  },
 
   ca: {
     "meta.title": "Elio Corp — Llocs web per a petits negocis",
@@ -500,3 +499,4 @@ window.translations = {
     "footer.tagline": "Llocs web per a petits negocis pràctics.",
     "footer.rights": "Tots els drets reservats."
   }
+};
